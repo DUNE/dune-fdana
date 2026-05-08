@@ -1,4 +1,4 @@
-# dune-fdana
+# dune-fd-ana
 Far Detector Analysis Software for DUNE's Phlex-based software stack
 
 
